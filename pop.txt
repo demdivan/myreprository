@@ -11,4 +11,8 @@ ass HOLE
 bitch
 OOOOOOPPPPOOOO
 LIfe is gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooood
+<<<<<<< HEAD
 Putin loh
+=======
+REPEAT
+>>>>>>> main
