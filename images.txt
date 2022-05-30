@@ -2,3 +2,5 @@
 2) img_2[1;4B
 3) img_3
 3asd
+6) img_6
+7) img_7
